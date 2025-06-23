@@ -97,7 +97,7 @@
   <li>📞 <strong>Phone:</strong> +880 1986-807239</li>
   <li>📧 <strong>Email:</strong> <a href="mailto:Suhel16-355@diu.edu.bd">Suhel16-355@diu.edu.bd</a></li>
   <li>🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/suhel-rana-3b2796204/">Suhel Rana</a></li>
-  <li>🌐 <strong>Website:</strong> Coming soon!</li>
+  <li>🌐 <strong>Website:</strong> <a href="https://sites.google.com/view/suhelrana/home?authuser=0">Suhel Rana</a></li>
 </ul>
 
 <hr/>
