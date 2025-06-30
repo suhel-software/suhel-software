@@ -54,13 +54,17 @@
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhel-software&layout=compact&theme=radical&hide_border=true" width="45%" />
+
 </p>
 
-<!-- Streak Stats -->
-
-
-
-
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com/?user=suhel-software&theme=radical&hide_border=true" 
+    alt="GitHub Streak Stats" 
+    width="60%"
+  />
+</p>
 
 
 <!-- Contribution Activity Graph -->
@@ -68,7 +72,12 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=suhel-software&theme=react-dark&area=true&hide_border=true&custom_title=Suhel%20Rana's%20GitHub%20Activity%20Graph" alt="GitHub Activity Graph" width="95%" />
 </p>
+<!-- Visitor Count -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=suhel-software&style=flat-square&color=blue" alt="Profile views" />
+</p>
 
+<hr/>
 
 <!-- Certifications -->
 <h2>🧠 Certifications</h2>
@@ -81,6 +90,13 @@
 </ul>
 
 <hr/>
+
+
+## 🚀 Featured Projects
+
+- [Odoo Custom Module](https://github.com/suhel-software/odoo-custom-module) — Custom ERP modules for inventory and sales automation.
+- [SaaS Support Toolkit](https://github.com/suhel-software/saas-support-toolkit) — Tools to improve client support efficiency.
+- [Tech Troubleshooter](https://github.com/suhel-software/tech-troubleshooter) — A repository with scripts and tools to debug common tech issues.
 
 <!-- Languages -->
 <h2>🌐 Languages</h2>
