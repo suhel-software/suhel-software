@@ -148,6 +148,9 @@ Currently working at **Daffodil Computers PLC**, I am passionate about problem-s
 </p>
 </details>
 
+---------
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ---
 
 ### ✨ Fun Facts & Languages
