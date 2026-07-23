@@ -70,7 +70,7 @@ Currently working at **Daffodil Computers PLC**, I am passionate about problem-s
 <table>
 <tr>
 <td width="50%">
-<a href="https://github.com/suhel-software/odoo-custom-module">
+<a href="https://github.com/suhel-software/DF-SaaS">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=suhel-software&repo=odoo-custom-module&theme=tokyonight"/>
 </a>
 </td>
