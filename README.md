@@ -152,7 +152,7 @@ Currently working at **Daffodil Computers PLC**, I am passionate about problem-s
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 July 2026 - To: 10 August 2026
+From: 19 July 2026 - To: 11 August 2026
 
 No activity tracked
 ```
